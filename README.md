@@ -1,12 +1,12 @@
-# Penggunaan Git dan GitHub
+# Maghfira Athiyah Adhavi
 
 Repository ini digunakan untuk mempelajari dasar-dasar Git dan GitHub.
 
 ## Perintah Git Dasar
 
-- **git init** — membuat repository baru  
+- **git init** — membuat repository baru 
 - **git add .** — menambahkan semua file ke staging  
-- **git commit -m "pesan"** — menyimpan perubahan  
+- **git commit -m "pesan"** — menyimpan perubahan 
 - **git push** — mengirim perubahan ke GitHub  
 - **git pull** — mengambil update terbaru dari GitHub  
 
